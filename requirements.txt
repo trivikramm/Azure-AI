@@ -1,0 +1,5 @@
+botbuilder-core==4.14.1
+botbuilder-dialogs==4.14.1
+botbuilder-integration-aiohttp==4.14.1
+botbuilder-ai==4.14.1
+python-dotenv==0.19.2
